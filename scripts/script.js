@@ -4,7 +4,7 @@
 
   https://sparkar.facebook.com/ar-studio/learn/documentation/reference/classes/persistencemodule
 
-  Make sure to whitelist your keys in project > properties > capabilities > whitelisted keys
+  Make sure to whitelist your keys (space separated) in project > properties > capabilities > whitelisted keys
 
 */
 
